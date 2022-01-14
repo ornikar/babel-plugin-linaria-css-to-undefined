@@ -1,0 +1,27 @@
+{
+  "name": "babel-plugin-linaria-css-to-undefined",
+  "version": "0.1.0",
+  "keywords": [],
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (https://christophe.hurpeau.com)",
+  "repository": "ornikar/babel-plugin-linaria-css-to-undefined",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 14.17.5"
+  },
+  "prettier": "@ornikar/prettier-config",
+  "main": "./lib/index.js",
+  "sideEffects": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.16.7",
+    "jest": "27.4.7",
+    "prettier": "2.5.1"
+  },
+  "jest": {
+  }
+}
