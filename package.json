@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-linaria-css-to-undefined",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "keywords": [],
   "author": "Christophe Hurpeau <christophe@hurpeau.com> (https://christophe.hurpeau.com)",
   "repository": "ornikar/babel-plugin-linaria-css-to-undefined",
