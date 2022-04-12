@@ -20,6 +20,7 @@
   "devDependencies": {
     "@babel/core": "7.16.7",
     "@ornikar/prettier-config": "4.0.1",
+    "babel-plugin-istanbul": "6.1.1",
     "jest": "27.4.7",
     "prettier": "2.5.1"
   },
